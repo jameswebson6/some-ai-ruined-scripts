@@ -366,3 +366,9 @@ end)
 
 -- Load saved
 loadWaypoints()
+
+-- kimi requeue
+local queueteleport = (syn and syn.queue_on_teleport) or queue_on_teleport or (fluxus and fluxus.queue_on_teleport)
+if queueteleport then
+    queueteleport("task.wait(3) loadstring(game:HttpGet('https://raw.githubusercontent.com/jameswebson6/some-ai-ruined-scripts/refs/heads/main/waypoint-gui.lua'))()")
+end
