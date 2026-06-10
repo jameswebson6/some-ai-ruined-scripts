@@ -1,4 +1,4 @@
--- Please note that this is NOT my script, I found this randomly somewhere. All I have done is manually improve it, it's under this repository because ai helped me fix mispellings and powers to add.
+-- Please note that this is NOT my script, I found this at https://scriptblox.com/script/Elemental-Powers-Tycoon-OuxiHub-equip-any-power-11360. All I have done is manually improve it, it's under this repository because ai helped me fix mispellings and powers to add.
 -- This is for Elemental Powers Tycoon.
 
 -- Instances: 29 | Scripts: 2 | Modules: 0
